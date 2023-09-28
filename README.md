@@ -7,3 +7,5 @@ version portable of apployd. not custom
 ## 3)when build click on link 
 
 http://GITHUBUSERNAME//.github.io/apploydv_portable/apployd/fr/home/
+
+custom on: /own_appstorev1_0_0
