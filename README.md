@@ -11,3 +11,5 @@ version portable of apployd. not include custom
 http://GITHUBUSERNAME//.github.io/apploydv_portable/apployd/fr/home/
 
 custom on: /own_appstorev1_0_0
+site_1: https://abel8260.github.io/apploydv_portable/
+site_2:
