@@ -7,8 +7,10 @@
 <p>`apploydv_portable` is a streamlined version of Apployd, designed for easy deployment with GitHub Pages. This repository does not include custom configurations, focusing on providing a straightforward setup. It leverages GitHub Actions for automated builds and deployments, ensuring a seamless integration process. Users can access the deployed site through URLs based on their GitHub username. Ideal for those looking for a portable solution, `apploydv_portable` simplifies the process of getting a static site up and running with minimal customization. For any issues or contributions, users are encouraged to engage via GitHub issues or pull requests.</p>
 
 ***
-# Languages: 
+## Languages: 
  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ***
 
+## Documentation:
+link: https://github.com/abel8260/apploydv_portable/wiki
