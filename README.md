@@ -1,3 +1,5 @@
+<meta property="og:image" content="https://i.ibb.co/5xTmwQs/Screenshot-from-2024-08-17-17-16-53.png" />
+
 # `apploydv_portable` 
 
 <a href="https://ibb.co/fpBbSr9"><img src="https://i.ibb.co/fpBbSr9/Screenshot-from-2024-08-15-19-59-52.png" alt="Screenshot-from-2024-08-15-19-59-52" border="0"></a>
