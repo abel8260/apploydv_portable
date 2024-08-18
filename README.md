@@ -13,4 +13,9 @@
 ***
 
 ## Documentation:
-link: https://github.com/abel8260/apploydv_portable/wiki
+--> Documentation:<br/>
+-> https://github.com/abel8260/apploydv_portable/wiki
+<br/>
+--> Support on:<br/>
+-> https://github.com/abel8260/apploydv_portable/discussions
+<br/>
