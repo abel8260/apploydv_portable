@@ -19,3 +19,6 @@
 --> Support on:<br/>
 -> https://github.com/abel8260/apploydv_portable/discussions
 <br/>
+--> Icon on desktop config: <br/>
+-> https://raw.githubusercontent.com/abel8260/apploydv_portable/main/icon_definition_apply.md
+<br/>
