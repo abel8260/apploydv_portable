@@ -5,7 +5,9 @@ The **"ico"** in **.ico** stands for "icon." The file extension **.ico** is deri
 
 **Overview of .ico in Windows:**
 
-In Windows, **.ico** files are primarily used to display icons for executables, folders, and shortcuts. The **.ico** format supports multiple resolutions within a single file, enabling Windows to choose the most appropriate size for various UI elements like the desktop, taskbar, or file explorer. Common sizes include 16x16, 32x32, and 64x64 pixels.
+## In Windows:
+
+**.ico** files are primarily used to display icons for executables, folders, and shortcuts. The **.ico** format supports multiple resolutions within a single file, enabling Windows to choose the most appropriate size for various UI elements like the desktop, taskbar, or file explorer. Common sizes include 16x16, 32x32, and 64x64 pixels.
 
 To quickly customize the icon of a folder in Windows using an **.ico** file:
 
@@ -28,3 +30,30 @@ To quickly customize the icon of a folder in Windows using an **.ico** file:
    - Press **"Apply"** and then **"OK"** to close the Properties window.
 
 The folder icon will now be customized with your selected `.ico` file.
+
+## In linux: 
+
+To change an icon for a folder in Ubuntu Linux (2024) using a new icon file, follow these steps:
+
+1. **Prepare the .ico file:**
+   - Convert the `.ico` file to a PNG format if necessary, as Ubuntu typically uses PNG for icons. You can use online converters or tools like `convert` from ImageMagick:
+     ```bash
+     convert old-icon.ico new-icon.png
+     ```
+
+2. **Place the new icon in a suitable directory:**
+   - Move or copy the `new-icon.png` file to a location like `~/.local/share/icons/` for user-specific icons or `/usr/share/icons/` for system-wide icons:
+     ```bash
+     cp new-icon.png ~/.local/share/icons/
+     ```
+
+3. **Change the folder icon:**
+   - Open **Nautilus** (the file manager) and right-click the folder you want to customize.
+   - Select **"Properties"**.
+   - Click on the current icon in the Properties window. A dialog will open where you can browse and select the new icon.
+
+4. **Apply the new icon:**
+   - Navigate to the directory where you placed `new-icon.png` (e.g., `~/.local/share/icons/`).
+   - Select the `new-icon.png` and confirm the change.
+
+Your folder icon should now reflect the new PNG image. If the icon doesn’t update immediately, you might need to restart Nautilus or log out and log back in.
